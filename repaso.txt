@@ -1,2 +1,6 @@
 Aqui haremos el repaso final de lo aprendido hasta el momento:
 HTML y Git Hub/Ramas.
+
+En el tercer commit añadimos El header de la web
+en el que colocamos titulo, subtitulo, imagen de github, y enlaces
+relacionados.
